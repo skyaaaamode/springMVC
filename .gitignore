@@ -1,0 +1,7 @@
+# Project exclude paths
+/demo01/target/
+/demo02/target/
+/demo03/target/
+/demo04/target/
+/demo05/target/
+/out/
